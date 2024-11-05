@@ -14,9 +14,6 @@
 7. 距離学習モデルを用いて，OSNetから得た特徴量を変換する，（apply_model.ipynb）
 8. 7で出力された特徴量を基に最適輸送を使用して，トラックレット単位でギャラリーデータとクエリデータのベクトル空間上の距離を計算する．結果を用いて各トラックレットの人物ラベルを決定する(OT.ipynb)
 
-![スクリーンショット 2024-11-05 182027](https://github.com/user-attachments/assets/6bf503bc-f2e8-4125-a9e5-21343ee17e91)
-
-![スクリーンショット 2024-11-05 182110](https://github.com/user-attachments/assets/9f8764b0-3a77-4f0e-b2f7-0d0099f10078)
 
 
 ![スクリーンショット 2024-11-05 171226](https://github.com/user-attachments/assets/454ab62e-d377-4b28-9675-358d89c1ad67)
